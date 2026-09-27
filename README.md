@@ -308,6 +308,18 @@ while (true) {
 > **Don't just write code. Understand the system behind it.**
 
 ---
+## 🐍 My Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/karanjot140506/karanjot140506/output/github-contribution-grid-snake-dark.svg">
+
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/karanjot140506/karanjot140506/output/github-contribution-grid-snake.svg">
+
+  <img alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/karanjot140506/karanjot140506/output/github-contribution-grid-snake.svg">
+</picture>
 
 # 🤝 Let's Connect
 
