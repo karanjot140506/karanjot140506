@@ -8,7 +8,7 @@ Currently, I'm deepening my knowledge of **System Design, SOLID principles, Desi
 
 <p align="left">
   <a href="https://www.linkedin.com/in/karanjot-singh-172bb3286">
-    <!-- <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> -->
+     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> 
   </a>
   <a href="https://leetcode.com/u/karanx/">
     <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
